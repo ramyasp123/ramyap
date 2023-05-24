@@ -1,4 +1,2 @@
 system.out.println(-------data------);
-jdy.hdf.u
-khc..iyhcf
-khcv
+
